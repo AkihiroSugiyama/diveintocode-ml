@@ -36,10 +36,10 @@ DIVE INTO CODE機械学習コースの課題を管理するリポジトリです
 
 ## Term2 深層学習
 - [Sprint9 深層学習スクラッチ ニューラルネットワーク](https://github.com/ttysgym/diveintocode-ml/blob/master/Sprint9/Sprint9_Deep_Learning_Newral_Network.ipynb)
-- [Sprint10 深層学習スクラッチ ディープニューラルネットワーク]()
-- [Sprint11 深層学習スクラッチ 畳み込みニューラルネットワーク1]()
+- [Sprint10 深層学習スクラッチ ディープニューラルネットワーク](https://github.com/ttysgym/diveintocode-ml/blob/master/Sprint10/Sprint10_DNN.ipynb)
+- [Sprint11 深層学習スクラッチ 畳み込みニューラルネットワーク1](https://github.com/ttysgym/diveintocode-ml/blob/master/Sprint11/S11_CNN1d_fullscratch_guide.ipynb)
 - [Sprint12 深層学習スクラッチ 畳み込みニューラルネットワーク2]()
-- [Sprint13 ディープラーニングフレームワーク1]()
+- [Sprint13 ディープラーニングフレームワーク1](https://github.com/ttysgym/diveintocode-ml/blob/master/Sprint13/S13_DL_frame_work.ipynb)
 - [Sprint14 ディープラーニングフレームワーク2]()
 - [Sprint15 論文読解入門]()
 - [Sprint16 論文紹介]()
