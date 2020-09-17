@@ -41,7 +41,7 @@ DIVE INTO CODE機械学習コースの課題を管理するリポジトリです
 - [Sprint12 深層学習スクラッチ 畳み込みニューラルネットワーク2]()
 - [Sprint13 ディープラーニングフレームワーク1](https://github.com/ttysgym/diveintocode-ml/blob/master/Sprint13/S13_DL_frame_work.ipynb)
 - [Sprint14 ディープラーニングフレームワーク2](https://github.com/ttysgym/diveintocode-ml/blob/master/Sprint14/S14_DL_frame_work2_Keras.ipynb)
-- [Sprint15 論文読解入門]()
+- [Sprint15 論文読解入門](https://github.com/ttysgym/diveintocode-ml/blob/master/Sprint15/S15_paper_reading.ipynb)
 - [Sprint16 論文紹介]()
 - [Sprint17 公開されている実装を動かす]()
 - [Sprint18 データセット作成]()
