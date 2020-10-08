@@ -48,7 +48,7 @@ DIVE INTO CODE機械学習コースの課題を管理するリポジトリです
 - [Sprint19 セグメンテーション1]()
 - [Sprint20 セグメンテーション2]()
 - [Sprint21 自然言語処理入門]()
-- [Sprint22 リカレントニューラルネットワーク]()
+- [Sprint22 リカレントニューラルネットワーク](https://github.com/ttysgym/diveintocode-ml/blob/master/Sprint22/S22_RNNs.ipynb)
 - [Sprint23 ゲート付きリカレントニューラルネットワーク](https://github.com/ttysgym/diveintocode-ml/blob/master/Sprint23/S23_Gate_RNN.ipynb)
 - [Sprint24 Seq2Seq]()
 - [Sprint25 プロトタイプ作成]()
