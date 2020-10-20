@@ -52,6 +52,5 @@ DIVE INTO CODE機械学習コースの課題を管理するリポジトリです
 - [Sprint23 ゲート付きリカレントニューラルネットワーク](https://github.com/ttysgym/diveintocode-ml/blob/master/Sprint23/S23_Gate_RNN.ipynb)
 - [Sprint24 Seq2Seq](https://github.com/ttysgym/diveintocode-ml/blob/master/Sprint24/S24_Seq2Seq.ipynb)
 - [Sprint25 プロトタイプ作成]()
-- [Sprint26 Generative Adversarial Networks]()
 
 
