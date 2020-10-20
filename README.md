@@ -31,7 +31,7 @@ DIVE INTO CODE機械学習コースの課題を管理するリポジトリです
 - [Sprint4 機械学習スクラッチ ロジスティック回帰](https://github.com/ttysgym/diveintocode-ml/blob/master/Sprint4/S4_scratch_logistic_regression.ipynb)
 - [Sprint5 機械学習スクラッチ SVM](https://github.com/ttysgym/diveintocode-ml/blob/master/Sprint5/S5_scratch_SVM.ipynb)
 - [Sprint6 機械学習スクラッチ 決定木](https://github.com/ttysgym/diveintocode-ml/blob/master/Sprint6/S6_scratch_decesion_tree.ipynb)
-- [Sprint7 機械学習スクラッチ クラスタリング]()
+- [Sprint7 機械学習スクラッチ クラスタリング](https://github.com/ttysgym/diveintocode-ml/blob/master/Sprint7/S7_clustering.ipynb)
 - [Sprint8 アンサンブル学習]()
 
 ## Term2 深層学習
