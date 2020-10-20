@@ -32,7 +32,7 @@ DIVE INTO CODE機械学習コースの課題を管理するリポジトリです
 - [Sprint5 機械学習スクラッチ SVM](https://github.com/ttysgym/diveintocode-ml/blob/master/Sprint5/S5_scratch_SVM.ipynb)
 - [Sprint6 機械学習スクラッチ 決定木](https://github.com/ttysgym/diveintocode-ml/blob/master/Sprint6/S6_scratch_decesion_tree.ipynb)
 - [Sprint7 機械学習スクラッチ クラスタリング](https://github.com/ttysgym/diveintocode-ml/blob/master/Sprint7/S7_clustering.ipynb)
-- [Sprint8 アンサンブル学習]()
+- [Sprint8 アンサンブル学習](https://github.com/ttysgym/diveintocode-ml/blob/master/Sprint8/S8_ensemble.ipynb)
 
 ## Term2 深層学習
 - [Sprint9 深層学習スクラッチ ニューラルネットワーク](https://github.com/ttysgym/diveintocode-ml/blob/master/Sprint9/Sprint9_Deep_Learning_Newral_Network.ipynb)
