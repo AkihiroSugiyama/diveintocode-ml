@@ -42,7 +42,7 @@ DIVE INTO CODE機械学習コースの課題を管理するリポジトリです
 - [Sprint13 ディープラーニングフレームワーク1](https://github.com/ttysgym/diveintocode-ml/blob/master/Sprint13/S13_DL_frame_work.ipynb)
 - [Sprint14 ディープラーニングフレームワーク2](https://github.com/ttysgym/diveintocode-ml/blob/master/Sprint14/S14_DL_frame_work2_Keras.ipynb)
 - [Sprint15 論文読解入門](https://github.com/ttysgym/diveintocode-ml/blob/master/Sprint15/S15_paper_reading.ipynb)
-- [Sprint16 論文紹介]()
+- [Sprint16 論文紹介](https://speakerdeck.com/dic/s16-paper-reading)
 - [Sprint17 公開されている実装を動かす](https://github.com/ttysgym/diveintocode-ml/blob/master/Sprint17/Sprint17_implement_public_repository.ipynb)
 - [Sprint18 データセット作成](https://github.com/ttysgym/diveintocode-ml/blob/master/Sprint18/Sprint18_dataset_creation.ipynb)
 - [Sprint19 セグメンテーション1](https://github.com/ttysgym/diveintocode-ml/blob/master/Sprint19/S19_Semantic_Segmentation.ipynb)
