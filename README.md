@@ -21,7 +21,7 @@ DIVE INTO CODE機械学習コースの課題を管理するリポジトリです
   - [Week4 授業前課題1 アヤメの分類](https://github.com/ttysgym/diveintocode-ml/blob/master/wk4/wk4_work1.ipynb)
   - [Week4 授業前課題2 住宅価格の予測](https://github.com/ttysgym/diveintocode-ml/blob/master/wk4/wk4_work2.ipynb)
   - [Week4 授業前課題3 オブジェクト指向の活用](https://github.com/ttysgym/diveintocode-ml/blob/master/wk4/wk4_work3.ipynb)
-  - [Week4 授業課題 信用情報の学習]()
+  - [Week4 授業課題 信用情報の学習](https://github.com/ttysgym/diveintocode-ml/blob/master/wk4/wk4_class_work.ipynb)
 
 ## Term1 機械学習
 
