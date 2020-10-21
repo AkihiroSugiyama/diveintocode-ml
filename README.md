@@ -25,7 +25,7 @@ DIVE INTO CODE機械学習コースの課題を管理するリポジトリです
 
 ## Term1 機械学習
 
-- [Sprint1 機械学習フロー]()
+- [Sprint1 機械学習フロー](https://github.com/ttysgym/diveintocode-ml/blob/master/Sprint1/S1_ML_flow.ipynb)
 - [Sprint2 機械学習スクラッチ入門](https://github.com/ttysgym/diveintocode-ml/blob/master/Sprint2/Sprint2_scratch.ipynb)
 - [Sprint3 機械学習スクラッチ 線形回帰](https://github.com/ttysgym/diveintocode-ml/blob/master/Sprint3/Sprint3_Scratch_Linear_Regression.ipynb)
 - [Sprint4 機械学習スクラッチ ロジスティック回帰](https://github.com/ttysgym/diveintocode-ml/blob/master/Sprint4/S4_scratch_logistic_regression.ipynb)
